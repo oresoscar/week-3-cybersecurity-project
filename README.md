@@ -68,31 +68,10 @@ The project also involved extracting the password hash from the PDF and preparin
 
 ---
 
-## 🔄 PM1 Workflow
+## 🔄 EVIDENCES
 
-```text
-Protected PDF
-      │
-      ▼
-Extract PDF Hash
-      │
-      ▼
-Save Hash to Text File
-      │
-      ▼
-Open Johnny
-      │
-      ▼
-Load Password Hash
-      │
-      ▼
-Start New Attack
-      │
-      ▼
-Password Recovered
-      │
-      ▼
-Open Protected PDF
-      │
-      ▼
-Verify Successful Recovery
+![](wk31.JPG)
+![](wk32.JPG)
+![](wk33.JPG)
+![](wk34.JPG)
+![](wk35.JPG)
